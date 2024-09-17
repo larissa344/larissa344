@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @larissa344
+- 👋 Hi, I’m Larissa
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on all
